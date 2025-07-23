@@ -49,5 +49,5 @@ The goal was to derive meaningful business insights from messy, raw sales data u
 
 Special thanks to Baraa for his guidance throughout the project!
 
-Project Link: https://github.com/AgnibC/E-Commerce_EDA_Project
+
 
